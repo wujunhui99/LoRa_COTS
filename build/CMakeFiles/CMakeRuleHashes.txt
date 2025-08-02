@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-99278076699da9cc5ff918de00fa8e3e src/apps/l2b/CMakeFiles/l2b.bin
-008409e32f5b306c145997c9f5df7530 src/apps/l2b/CMakeFiles/l2b.hex
