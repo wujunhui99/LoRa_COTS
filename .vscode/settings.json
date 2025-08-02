@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.proto": "go",
+        "cstdlib": "c",
+        "algorithm": "c",
+        "string.h": "c",
+        "sx1276regs-lora.h": "c",
+        "inttypes.h": "c",
+        "radio.h": "c",
+        "rtc-board.h": "c",
+        "utilities.h": "c",
+        "timer.h": "c",
+        "math.h": "c",
+        "__config": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
